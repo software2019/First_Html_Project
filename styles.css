@@ -1,0 +1,24 @@
+/* Nav bar */
+* {
+  margin-top: 0;
+}
+.navbar {
+  text-decoration: none;
+  font-size: 18px;
+  list-style-type: none;
+  margin-left: 0;
+}
+/* Main heading */
+.main-heading {
+  color: darkblue;
+}
+/* Return to Top */
+.return {
+  text-decoration: none;
+}
+/* city names in branch */
+.city,
+.branch {
+  text-transform: uppercase;
+  text-align: left;
+}
